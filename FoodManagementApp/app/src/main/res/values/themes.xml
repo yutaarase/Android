@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FoodManagementApp" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="CalenderViewCustom" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/white_30</item>
+
+    </style>
+
+    <style name="CalenderViewDateCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <color name="white_30">#F1ECBB</color>
+    <style name="lagesize">40dp</style>
+    <style name="datestyle">yyyy月MM日dd</style>
+</resources>
+

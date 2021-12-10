@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodManagementApp</string>
+    <string name="title1">名前</string>
+    <string name="title2">グラム数</string>
+    <string name="title3">数量</string>
+    <string name="title4">賞味期限</string>
+    <string name="title5">選択</string>
+</resources>

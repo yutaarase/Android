@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/fraw1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:singleLine="true"
+        android:layout_marginRight="@dimen/dp_s"
+        android:padding="@dimen/dp_s"
+        android:textSize="@dimen/sp_s" />
+
+    <TextView
+        android:id="@+id/fraw2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:singleLine="true"
+        android:gravity="end"
+        android:layout_marginRight="@dimen/dp_s"
+        android:padding="@dimen/dp_s"
+        android:textSize="@dimen/sp_s" />
+
+    <TextView
+        android:id="@+id/fraw3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:singleLine="true"
+        android:gravity="end"
+        android:layout_marginRight="@dimen/dp_s"
+        android:padding="@dimen/dp_s"
+        android:textSize="@dimen/sp_s" />
+
+    <TextView
+        android:id="@+id/fraw4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/dp_s"
+        android:layout_weight="1"
+        android:gravity="end"
+        android:padding="@dimen/dp_s"
+        android:singleLine="true"
+        android:textAppearance="@style/CalenderViewDateCustomText"
+        android:textSize="14dp" />
+
+    <CheckBox
+        android:id="@+id/fraw5"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/dp_s" />
+
+</LinearLayout>
