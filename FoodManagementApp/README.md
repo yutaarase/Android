@@ -23,7 +23,7 @@ Build推奨ADV
 Projectは、Android Studioで開いてください。
 
 Apkはここから
-[ダウンロード]()
+[ダウンロード](https://github.com/yutaarase/android/releases/tag/v1.0.0)
 してください。
 
 # Author
