@@ -20,7 +20,11 @@ Build推奨ADV
 
 # Usage
 
-Android Studioで開いてください。
+Projectは、Android Studioで開いてください。
+
+Apkはここから
+[ダウンロード]()
+してください。
 
 # Author
 
