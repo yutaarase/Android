@@ -28,9 +28,10 @@ Apkはここから
 
 # Author
 
-* 荒瀬
+* 荒瀬勇太
 * 九州デザイナー学院
 * arase210601@eggnet.ac.jp
+* [ポートフォリオ](https://yutaarase.github.io/)
 
 # License
 
