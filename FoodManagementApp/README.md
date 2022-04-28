@@ -8,15 +8,15 @@
 # Requirement
 
 開発環境 : Android Studio
-　compileSdk 31
-　mainSDK 23
-　targetSdk 31
-　sourceCompatibility JavaVersion.VERSION_1_8
-　targetCompatibility JavaVersion.VERSION_1_8
+* compileSdk 31
+* mainSDK 23
+* targetSdk 31
+* sourceCompatibility JavaVersion.VERSION_1_8
+* targetCompatibility JavaVersion.VERSION_1_8
 
 Build推奨ADV
-　Nexus 5X
-　Marshmallow API23 Android6.0 Google inc. system image x86
+* Nexus 5X
+* Marshmallow API23 Android6.0 Google inc. system image x86
 
 # Usage
 
